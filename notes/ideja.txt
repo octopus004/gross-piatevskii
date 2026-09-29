@@ -1,0 +1,4 @@
+-std namespace umesto pokazivaca
+- mozda psi izvuci u svoju klasu i sve metode nad njom?
+- jedna zajednicka apstraktna klasa (posle moze da se izvuce i za 2d i 1d)
+- 
