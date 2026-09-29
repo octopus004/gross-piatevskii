@@ -1,5 +1,8 @@
 -std namespace umesto pokazivaca
-- mozda psi izvuci u svoju klasu i sve metode nad njom?
+  nema free ni alloc (memorija se vezuje za zivotni vek objekta)
+- psi template 
+  imag i obican
+  sve metode koje menjaju psi su u template
 - jedna zajednicka apstraktna klasa (posle moze da se izvuce i za 2d i 1d)
    imag i real 
    apstraktne metode bez parametara, parametri su privatni clanovi
